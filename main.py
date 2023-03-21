@@ -19,3 +19,5 @@ cv2.imshow('dst3',dst3)
 # 마무리
 cv2.waitKey(0)
 cv2.destroyAllWindows()
+
+print("프로그램 끝.")
